@@ -1,5 +1,5 @@
 outs:
-    - md5: 8c2a833c5ae92af57ff2c8f2c8c621ea.dir
-      size: 1845
+    - md5: fd85413bc325f67dbf5060bf5e0fe570.dir
+      size: 2583
       path: big-folder
-      nfiles: 205
+      nfiles: 287
