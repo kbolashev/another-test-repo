@@ -1,5 +1,5 @@
 outs:
-    - md5: 6a50fa133d6f462d7717856df57c40e8.dir
-      size: 900
+    - md5: 69079d628e3333fec7b9737e853ca3e5.dir
+      size: 1800
       path: big-folder
-      nfiles: 100
+      nfiles: 200
