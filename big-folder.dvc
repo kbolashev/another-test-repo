@@ -1,5 +1,5 @@
 outs:
-    - md5: ac95eec4ad99411182083dd60df824a6.dir
-      size: 3267
+    - md5: 296990803d25155fde378df8c446aacb.dir
+      size: 4005
       path: big-folder
-      nfiles: 363
+      nfiles: 445
